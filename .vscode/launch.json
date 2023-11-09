@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CreateOctagon",
+      "request": "launch",
+      "mainClass": "hello.CreateOctagon",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "CreateCircle",
+      "request": "launch",
+      "mainClass": "hello.CreateCircle",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "HelloWithName",
       "request": "launch",
       "mainClass": "hello.HelloWithName",
